@@ -27,4 +27,4 @@ If you are a member of the F3 community click the link below!
 ## Chatham - Orange - Durham Community Members
 
 If you just want to help raise money but are not part of the F3 community (or a spouse, neighbor, etc)
-[Click here to raise money for the community](https://givebutter.com/churham)
+[Click here to raise money for the community](https://givebutter.com/holiday_hope_everyone)
