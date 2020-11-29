@@ -2,7 +2,7 @@
 
 COVID has severely impacted many families in our community.  At the same time, many local businesses and restaurants are struggling to survive.
 
-[F3 Churham](f3churham.com) is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Every dollar you donate helps twice.  It helps a local restaurant and a family in need.
+[F3 Churham](www.f3churham.com) is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Every dollar you donate helps twice.  It helps a local restaurant and a family in need.
 
 ![logo for hometown hope](hometown_hope_transparent.png)
 
@@ -10,7 +10,7 @@ COVID has severely impacted many families in our community.  At the same time, m
 
 **Who is raising the money?**
 
-This fundraiser is started by the [F3 community](f3churham.com). F3 is a free, peer-led workout group of guys that meet all over the state and far beyond.
+This fundraiser is started by the [F3 community](www.f3churham.com). F3 is a free, peer-led workout group of guys that meet all over the state and far beyond.
 
 **Where is the money going?**
 
