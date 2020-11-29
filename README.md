@@ -18,21 +18,7 @@ The money is going to buy gift cards from local struggling restaurants in the Ch
 
 ## Two fundraising campaigns, One Goal!
 
-* [F3 Fundraising contest](#f3-fundraising-contest)
-* [Chatham - Orange - Durham Community Members](#chatham---orange---durham-community-members)
+* [F3 Members](#https://givebutter.com/churham)
+* [Non-F3 Local Community](#https://givebutter.com/holiday_hope_everyone)
 
 ---
-## F3 Fundraising contest
-
-If you are a member of the F3 community click the link below!
-
-<a href="https://givebutter.com/churham"><img src="f3_churham_logo.png"></a>
-[Click here to join the F3 fundraising contest!](https://givebutter.com/churham)
-
----
-
-## Chatham - Orange - Durham Community Members
-
-If you just want to help raise money but are not part of the F3 community (or a spouse, neighbor, etc) you can still help us raise money!  This event and fundraiser is open to everyone!
-
-[Click here to raise money for the community](https://givebutter.com/holiday_hope_everyone)
