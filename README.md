@@ -18,8 +18,8 @@ The money is going to buy gift cards from local struggling restaurants in the Ch
 
 ## Two fundraising campaigns, One Goal!
 
-* [F3 Members](#https://givebutter.com/churham)
-* [Non-F3 Local Community](#https://givebutter.com/holiday_hope_everyone)
+* [F3 Members](https://givebutter.com/churham)
+* [Non-F3 Local Community](https://givebutter.com/holiday_hope_everyone)
 
 ---
 
