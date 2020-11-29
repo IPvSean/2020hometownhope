@@ -1,4 +1,4 @@
-# Holiday 2020 Hometown Hope
+# Chapel Hill, Durham, Hillsborough, and North Chatham
 
 COVID has severely impacted many families in Chapel Hill, Durham, Hillsborough, and North Chatham.  And, many local businesses and restaurants are struggling to survive.
 
