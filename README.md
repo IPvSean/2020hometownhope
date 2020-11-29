@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Holiday 2020 Hometown Hope
 
-You can use the [editor on GitHub](https://github.com/IPvSean/2020hometownhope/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+COVID has severely impacted many families in our community.  At the same time, many local businesses and restaurants are struggling to survive.  F3 Churham is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Each dollar you donate helps twice.  It helps a local restaurant and a family in need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![logo for hometown hope](HOLIDAY-HOPE.PNG)
 
-### Markdown
+If you are a member of the F3 community click the link below!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![f3 logo](f3_churham_logo.png)
+[Click here to join the F3 fundraising contest!](https://givebutter.com/churham)
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IPvSean/2020hometownhope/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you just want to help raise money but are not part of the F3 community (or a spouse, neighbor, etc)
+[Click here to raise money for the community](https://givebutter.com/churham)
