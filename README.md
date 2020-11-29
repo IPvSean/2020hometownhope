@@ -2,7 +2,7 @@
 
 COVID has severely impacted many families in our community.  At the same time, many local businesses and restaurants are struggling to survive.
 
-F3 Churham is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Every dollar you donate helps twice.  It helps a local restaurant and a family in need.
+[F3 Churham](f3churham.com) is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Every dollar you donate helps twice.  It helps a local restaurant and a family in need.
 
 ![logo for hometown hope](hometown_hope_transparent.png)
 
