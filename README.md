@@ -24,7 +24,7 @@ The money is going to buy gift cards from local struggling restaurants in the Ch
 
 If you are a member of the F3 community click the link below!
 
-![f3 logo](f3_churham_logo.png)
+<a href="https://givebutter.com/churham"><img src="f3_churham_logo.png"></a>
 [Click here to join the F3 fundraising contest!](https://givebutter.com/churham)
 
 ---
