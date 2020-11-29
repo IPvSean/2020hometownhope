@@ -22,3 +22,9 @@ The money is going to buy gift cards from local struggling restaurants in the Ch
 * [Non-F3 Local Community](#https://givebutter.com/holiday_hope_everyone)
 
 ---
+
+## Thank you
+
+The [F3 Churham](www.f3churham.com) group thanks you for helping!
+
+![f3 logo](f3_churham_logo.png)
