@@ -3,6 +3,7 @@
 
 img {
   border: 0 !important;
+  -webkit-box-shadow: 0 0 black !important;
 }
 
 @import "{{ site.theme }}";
