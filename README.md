@@ -1,6 +1,6 @@
 # Holiday 2020 Hometown Hope
 
-COVID has severely impacted many families in our community.  And, many local businesses and restaurants are struggling to survive.
+COVID has severely impacted many families in our community (Chapel Hill, Durham, Hillsborough, and North Chatham).  And, many local businesses and restaurants are struggling to survive.
 
 [F3 Churham](https://f3churham.com/) is raising money to provide restaurant gift certificates for families in need this holiday season.  By giving gift certificates to local restaurants, this is a unique opportunity to double your impact on our community.  Each dollar you donate helps twice.  It helps a local restaurant and a family in need.
 
