@@ -14,6 +14,11 @@ This fundraiser is started by the [F3 community](f3churham.com). F3 is a free, p
 
 The money is going to buy gift cards from local struggling restaurants in the Chapel-Hill and Durham metro area and handed to food-insecure or struggling families so they can have nice meals during the holiday.  We will choose restaurants across Chatham, Orange and Durham counties to spread the hope to everyone we can.  This will allow us to simultaneously help local businesses while helping families have nice meals during this pandemic.
 
+## Two fundraising campaigns, One Goal!
+
+* [F3 Fundraising contest](#f3-fundraising-contest)
+* [Chatham - Orange - Durham Community Members](#chatham---orange---durham-community-members)
+
 ---
 ## F3 Fundraising contest
 
@@ -26,5 +31,6 @@ If you are a member of the F3 community click the link below!
 
 ## Chatham - Orange - Durham Community Members
 
-If you just want to help raise money but are not part of the F3 community (or a spouse, neighbor, etc)
+If you just want to help raise money but are not part of the F3 community (or a spouse, neighbor, etc) you can still help us raise money!  This event and fundraiser is open to everyone!
+
 [Click here to raise money for the community](https://givebutter.com/holiday_hope_everyone)
