@@ -16,10 +16,7 @@ This fundraiser is started by the [F3 community](https://f3churham.com/) F3 is a
 
 The money is going to buy gift cards from local struggling restaurants in the Chapel-Hill and Durham metro area.  And, we are working with local community organizations to distribute them to families in need.  So, every dollar you donate helps our community twice!
 
-## Two fundraising campaigns, One Goal!
-
-* [F3 Members](https://givebutter.com/churham)
-* [Community Members - beyond F3](https://givebutter.com/holiday_hope_everyone)
+## [Click to Donate!](https://givebutter.com/churham)
 
 ---
 
