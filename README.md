@@ -8,6 +8,6 @@ Aaron Westrick prototype
 
 ## Thank you
 
-The [F3 Churham](www.f3churham.com) group thanks you for helping!
+The [F3 Churham](https://f3churham.com/) group thanks you for helping!
 
 ![f3 logo](f3_churham_logo.png)
