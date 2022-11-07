@@ -15,4 +15,8 @@ img {
   -webkit-box-shadow: 0 0 black !important;
 }
 
+span.banner-fix {
+    display: none !important;
+}
+
 @import "{{ site.theme }}";
