@@ -1,7 +1,5 @@
 # Holiday 2022 Hometown Hope
 
-Aaron Westrick prototype
-
 <table>
   <tr>
     <th><iframe src="https://www.gofundme.com/f/jdqapw-donate-to-help/widget/large/" width="500" height="510"></iframe></th>
