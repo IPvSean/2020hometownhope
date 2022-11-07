@@ -6,7 +6,7 @@ div.shell {
 }
 
 footer {
-    background: 0px;
+    background: 0px !important;
     max-width: 1700px !important;
 }
 
@@ -29,7 +29,7 @@ div#no-downloads span.inner {
     display: block;
     position: relative;
     height: 197px;
-    width: 1300px !important;    
+    width: 1300px !important;
     background: transparent url(../images/sprite-wide.png) 0 0 no-repeat;
 }
 
