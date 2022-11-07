@@ -19,4 +19,8 @@ span.banner-fix {
     display: none !important;
 }
 
+header {
+    max-width: 1650px !important;
+}
+
 @import "{{ site.theme }}";
