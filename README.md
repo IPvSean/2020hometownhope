@@ -20,4 +20,3 @@
 The [F3 Churham](https://f3churham.com/) group thanks you for helping!
 
 ![f3 logo](f3_churham_logo.png)
-width="500" height="510"
