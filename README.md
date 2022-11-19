@@ -1,6 +1,6 @@
-# F3 Churham Gives
+# Pick a local F3 Churham to donate to below
 
-Pick a local F3 Churham to donate to below:
+
 
 <table>
   <tr>
