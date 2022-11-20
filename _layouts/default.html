@@ -25,8 +25,7 @@
     <!-- sean put this here -->
     <script>
     $.ajax({
-    url:'https://www.corsproxy.com/' +
-        'en.wikipedia.org/wiki/Briarcliff_Manor,_New_York',
+    url:'en.wikipedia.org/wiki/Briarcliff_Manor,_New_York',
         type:'GET',
         success: function(data){
            $('#seancontent').html($(data).find('#firstHeading').html());
