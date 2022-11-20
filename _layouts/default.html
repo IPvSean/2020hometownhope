@@ -21,6 +21,18 @@
     <script type="text/javascript" language="javascript">
     $('.myIframe').css('height', $(window).height()+'px');
     </script>
+
+    <!-- sean put this here -->
+    <script>
+    $.ajax({
+    url:'http://www.corsproxy.com/' +
+        'en.wikipedia.org/wiki/Briarcliff_Manor,_New_York',
+        type:'GET',
+        success: function(data){
+           $('#seancontent').html($(data).find('#firstHeading').html());
+        }
+      });
+    </script>
 {% seo %}
   </head>
 
@@ -30,6 +42,8 @@
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
+            <div id="seancontent"></div>
+
             <h1>F3 Churham Gives</h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </span>

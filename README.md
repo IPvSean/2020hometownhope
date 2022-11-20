@@ -5,7 +5,7 @@
 <table>
   <tr>
     <th><iframe src="https://www.gofundme.com/f/help-us-raise-money-for-christmas-house/widget/large/" class="myIframe"></iframe></th>
-    <th><iframe src="https://marinetoysfortots.salsalabs.org/2022marinetoysfortotscrowdfunding/p/teamf3churhamnorthernprovince/index.html " class="myIframe"></iframe></th>    
+    <th><iframe src="https://marinetoysfortots.salsalabs.org/2022marinetoysfortotscrowdfunding/p/teamf3churhamnorthernprovince/index.html" class="myIframe"></iframe></th>    
 
     <th><iframe src="https://www.gofundme.com/f/help-f3-nodu-raise-money/widget/large/" class="myIframe"></iframe></th>    
   </tr>
