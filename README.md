@@ -18,6 +18,10 @@
 
 ---
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlUE6QVzLb2j3lpjpN4RyY5oUVgNKvnI1YihgVZtG--uwTwwQ_2n79lNAR5Ocalg/pubchart?oid=476720969&amp;format=image"></iframe>
+
+---
+
 ## Thank you
 
 100% of money is being raised for non-profits by the local F3 organization in Orange, Durham and Chatham counties.
