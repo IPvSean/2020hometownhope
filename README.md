@@ -1,7 +1,10 @@
 # Pick a local F3 Churham to donate to below
 
+---
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlUE6QVzLb2j3lpjpN4RyY5oUVgNKvnI1YihgVZtG--uwTwwQ_2n79lNAR5Ocalg/pubchart?oid=476720969&amp;format=image" class="myIframe2"></iframe>
 
+--
 <table>
   <tr>
     <th><iframe src="https://www.gofundme.com/f/help-us-raise-money-for-christmas-house/widget/large/" class="myIframe"></iframe></th>
@@ -15,11 +18,6 @@
     <th><iframe src="https://www.gofundme.com/f/f3-durham-is-raising-money-for-emily-k-center/widget/large/" class="myIframe"></iframe></th>    
   </tr>
 </table>
-
----
-
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRlUE6QVzLb2j3lpjpN4RyY5oUVgNKvnI1YihgVZtG--uwTwwQ_2n79lNAR5Ocalg/pubchart?oid=476720969&amp;format=image" class="myIframe2"></iframe>
-
 
 ---
 
