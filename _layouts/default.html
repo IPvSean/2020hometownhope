@@ -22,16 +22,6 @@
     $('.myIframe').css('height', $(window).height()+'px');
     </script>
 
-    <!-- sean put this here -->
-    <script>
-    $.ajax({
-    url:'https://en.wikipedia.org/wiki/Briarcliff_Manor,_New_York',
-        type:'GET',
-        success: function(data){
-           $('#seancontent').html($(data).find('#firstHeading').html());
-        }
-      });
-    </script>
 {% seo %}
   </head>
 
